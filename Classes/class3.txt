@@ -1,0 +1,42 @@
+Slide Link: https://docs.google.com/presentation/d/1mFtLVoMnXnSVtIRSr3GPCgIqgt-g_hgEqmV4qDBUxwg
+camelCase
+snake_case
+PascalCase
+ILLEGAL VARIABLAL NAMES:
+1...
+@...
++...
+/...
+#....
+LEGAL VARIABLE NAMES:
+My....
+$my...
+_my....
+My...
+my..
+
+BASIC DATA TYPES IN TYPESCRIPT:
+String
+Number
+Boolean
+Any: for variables that can hold any type of data
+
+LET AND CONTANTS
+
+Undefined: is a primitive data type
+that doesn't need any initialization and value
+
+Unknown: used for variable when type is not known
+at the time of writing code
+
+BigInt: used to store very large numbers bigger than Int
+
+
+Symbol: used to add unique property keys to an object
+
+Null: used to represent no value
+
+String concatenation
+
+Modules : exporting and importing of modules
+

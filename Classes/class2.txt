@@ -1,0 +1,16 @@
+// Governor house Class # 02 23-feb-2024
+Type Script
+High level language used to convert instructions
+into low level language(machine language).
+Super set of Java Script with advance features
+
+Es6 support.
+OOP
+after typescript next.js
+step
+npm i -g typescript (npm=node package manager, i=install, -g=globally)
+tsc --version (tsc=typescript compiler)
+
+console is object and log is a function
+we use console.log to show output on terminal
+

@@ -1,0 +1,6 @@
+// 15.3.2024
+Ooperators
+logical && ||
+arithmetic * - / %
+comparisong < > <= >= ==
+assignment operator = 
