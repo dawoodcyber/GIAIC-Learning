@@ -1,0 +1,15 @@
+{
+  "name": "table_dawoodcyber",
+  "version": "1.0.0",
+  "description": "Table shower",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {},
+  "bin": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
