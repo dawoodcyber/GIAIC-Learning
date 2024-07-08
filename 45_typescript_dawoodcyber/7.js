@@ -1,0 +1,14 @@
+var n1 = 3.5;
+var n2 = 4.5;
+var n3 = 11.5;
+var n4 = 4;
+var n5 = 2;
+var n6 = 64;
+var Add = n1 + n2;
+var Sub = n3 - n1;
+var Mult = n4 * n5;
+var Div = n6 / Mult;
+console.log("Addition:       ".concat(n1, " + ").concat(n2, " = ") + Add);
+console.log("Subtraction:    ".concat(n3, " - ").concat(n1, " = ") + Sub);
+console.log("Multiplication: ".concat(n4, " * ").concat(n5, " = ") + Mult);
+console.log("Division:       ".concat(n6, " + ").concat(Mult, " =") + Div);
